@@ -2,7 +2,6 @@ package com.example.demo;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.roni.roniresourcelockstarter.annotation.CheckLock;
 import ru.roni.roniresourcelockstarter.service.LockService;
 
 @Service
